@@ -1,0 +1,10 @@
+total 108
+-rw-r--r-- 1 oscreader oscreader   169 Feb 21 18:40 makefile
+-rwxr-xr-x 1 oscreader oscreader     0 Feb 22 20:21 outfile
+-rwxr-xr-x 1 oscreader oscreader 11924 Feb 22 20:20 project1
+-rw-r--r-- 1 oscreader oscreader  8398 Feb 22 20:20 project1.c
+-rw-r--r-- 1 oscreader oscreader    18 Jan 26 18:01 project1.h
+-rw-r--r-- 1 oscreader oscreader  8304 Feb 22 20:20 project1.o
+-rw-r--r-- 1 oscreader oscreader 33792 Feb 22 17:02 Project1_writeup.doc
+-rwxr-xr-x 1 oscreader oscreader    24 Feb 22 20:14 test
+-rwxr-xr-x 1 oscreader oscreader    24 Feb 22 17:00 test1
